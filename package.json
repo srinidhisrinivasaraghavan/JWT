@@ -1,0 +1,26 @@
+{
+  "name": "jwt-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinidhisrinivasaraghavan/JWT.git"
+  },
+  "author": "Srinidhi S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinidhisrinivasaraghavan/JWT/issues"
+  },
+  "homepage": "https://github.com/srinidhisrinivasaraghavan/JWT#readme",
+  "dependencies": {
+    "hapi": "^14.2.0",
+    "hapi-auth-jwt2": "^7.1.2",
+    "jsonwebtoken": "^7.1.9",
+    "mongoose": "^4.5.10",
+    "morgan": "^1.7.0"
+  }
+}
